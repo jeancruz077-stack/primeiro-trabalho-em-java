@@ -1,1 +1,1 @@
-# primeiro-trabalho-em-java
+esse é meu primeiro trabalho em Java, e como primeiro trabalho também será minha porta de entrada para a profissão, se tiver alguma coisa q possa melhorar, me ajudem por favor 
